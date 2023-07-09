@@ -1,0 +1,7 @@
+{
+  "dbConfig": {
+    "url": "mongodb://127.0.0.1:27017/bizcarddb"
+  },
+  "jwt": "780y94563hj2y45wopiunj",
+  "file": "dev"
+}
